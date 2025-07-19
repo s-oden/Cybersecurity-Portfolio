@@ -1,0 +1,81 @@
+body {
+  background-color: black;
+  color: white; /* <-- This part is critical! */
+  font-family: Arial, sans-serif;
+}
+
+/* Optional enhancements */
+p, h2, ul, li {
+  color: black !important;
+   margin: 0;
+  padding: 0;
+}
+
+
+a {
+  color: #00ffff; /* Cyan links */
+}
+
+footer a {
+  color: #007bff; /* Classic blue to match your header/nav theme */
+  text-decoration: none;
+  footer a:hover
+  text-decoration: underline;
+}
+
+
+
+header {
+    background-color: #007bff;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+section {
+  background-color: white; /* Light gray */
+  color: white; /* Bright text that stands out */
+  padding: 20px;
+  margin: 20px;
+  border-radius: 8px;
+}
+
+section p {
+  margin-bottom: 20px; /* Adds space below each paragraph */
+  line-height: 1.6;     /* Improves readability */
+}
+section ul {
+  margin-bottom: 20px; /* space below the whole list */
+}
+
+section li {
+  margin-bottom: 8px;  /* space between items */
+}
+
+ul {
+    list-style-type: none;
+}
+
+footer {
+    background-color: white; /* Light background for clarity */
+  color: black;            /* Dark text for easy reading */
+  text-align: center;
+  padding: 10px;
+}
+
+.skill-item {
+    transition: 0.3s;
+    padding: 10px;
+}
+
+.skill-item:hover {
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+}
+
+
+
+
+
+

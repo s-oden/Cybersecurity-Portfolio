@@ -15,7 +15,10 @@ Welcome! I'm **Sonseehray** — an aspiring cybersecurity analyst actively build
 - Simulated Firewall Setup for Secure Network Architecture  
 
 ## 🎓 Certifications & Education
-- **Google Cybersecurity Professional Certificate** – Coursera  
+- **Google Cybersecurity Professional Certificate** – Coursera
+- **IBM Cybersecurity Fundamentals** - IBM
+- **IBM SOC in Practice** - IBM
+- **Linux Foundation Cybersecurity Essentials** - Linux
 - **Certified Internet Research Specialist** – Association of Internet Research Specialist (May 2022)  
 - **PC Troubleshooting** – Milwaukee Public Library (Nov 2022)  
 - **Creating Web Pages** – Milwaukee Public Library  

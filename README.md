@@ -12,7 +12,8 @@ Welcome! I'm **Sonseehray** — an aspiring cybersecurity analyst actively build
 ## 🚧 Featured Projects
 - Custom-configured Home SOC Lab using VirtualBox  
 - Vulnerability Scanning with Nmap, Metasploit, and Wireshark  
-- Simulated Firewall Setup for Secure Network Architecture  
+- Simulated Firewall Setup for Secure Network Architecture
+- Elastic Stack SIEM Deployment for Centralized Log Analysis 
 
 ## 🎓 Certifications & Education
 - **Google Cybersecurity Professional Certificate** – Coursera

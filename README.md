@@ -4,7 +4,8 @@ Welcome! I'm **Sonseehray** — an aspiring cybersecurity analyst actively build
 
 ## 🛠️ Skills & Focus Areas
 - Network Defense & Threat Analysis  
-- SOC Lab Architecture & Simulation  
+- SOC Lab Architecture & Simulation
+- Incident Response, Log Analysis & SIEM Monitoring (Elastic Stack) 
 - Incident Response & Log Analysis  
 - Python, JavaScript, HTML/CSS  
 - Linux & Windows Administration  
